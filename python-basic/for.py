@@ -9,3 +9,12 @@ print('Total: ',sum)
 char='sohanur Rahman'
 for ch in char:
     print(ch)
+
+n=input('Take input: ')
+for nums in n:
+    print(nums)
+
+# print 1-10
+
+for i in range(1,11,2):
+    print(i)
