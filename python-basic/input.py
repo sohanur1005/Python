@@ -15,4 +15,4 @@ print('Total Taka: ',total)
 first_money_int=int(first_money)
 second_money_int=int(second_money)
 total_money=first_money_int+second_money_int
-print('Now actual money'total_money)
+print('Now actual money'total_money) 
