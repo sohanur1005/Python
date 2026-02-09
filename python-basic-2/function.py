@@ -8,9 +8,9 @@ double_it(10)
 double_it(20)
 
 
-def sum(x,y):
+def sum(x,y,z):
     sum=x+y
     return sum
 
-result=sum(5,10)
+result=sum(5,10,5)
 print(result)
