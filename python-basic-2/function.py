@@ -6,3 +6,11 @@ def double_it(num):
 
 double_it(10)
 double_it(20)
+
+
+def sum(x,y):
+    sum=x+y
+    return sum
+
+result=sum(5,10)
+print(result)
