@@ -12,5 +12,5 @@ def sum(x,y,z):
     sum=x+y
     return sum
 
-result=sum(5,10,5)
-print(result)
+result=sum(5,10,10)
+print("Sum : "result)
